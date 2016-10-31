@@ -260,16 +260,26 @@ function create_config( )
     "uptime",
     "setsudo"
     },
-    sudo_users = {219201071,248974584,173061880,0,tonumber(our_id)},--Sudo users
+    sudo_users = {113566842,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[》TeleDiamond Source v2
-》Creator :@mrr619
-》git address:
-https://github.com/Mohammadrezar/TD.git
+    about_text = [[》👑 AFBots 👑
+An advanced administration bot based on TG-CLI written in Lua
 
-Id Channel:
-@antispamandhack
+🔰 AFProtect 🔰
 
+Admins:
+🔥 @ShafiqSadat 🔥
+
+🔥 @AFBots_admin 🔥
+
+🔥 AFTeam Bots 🔥
+
+
+Special thanks to
+@nimabd
+
+Our channels
+@AFTBots
 ]],
     help_text_realm = [[
 Realm Commands:
