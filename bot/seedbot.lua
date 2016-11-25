@@ -260,7 +260,7 @@ function create_config( )
     "uptime",
     "setsudo"
     },
-    sudo_users = {113566842,0,tonumber(our_id)},--Sudo users
+    sudo_users = {113566842,65761134},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[》👑 AFBots 👑
 An advanced administration bot based on TG-CLI written in Lua
